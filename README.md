@@ -55,13 +55,13 @@ Here are key charts from the analysis:
 
 To increase annual memberships, Cyclistic should:
 
-1. **Weekend Membership Plan**
+1. **Weekend Membership Plan**:
 Offer discounted weekend subscription plans targeting casual riders who already use the service heavily on weekends.
 
-2. **Targeted Marketing Campaigns**
+2. **Targeted Marketing Campaigns**:
 Focus ads near tourist-heavy areas and weekends to convert leisure riders to members.
 
-3. **Commuter Incentives**
+3. **Commuter Incentives**:
 Promote annual membership benefits emphasizing convenience and cost savings for daily commuters.
 
 ## Repository Structure
