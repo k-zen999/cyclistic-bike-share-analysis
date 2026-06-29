@@ -30,13 +30,13 @@ This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – Ma
 ## Visualizations
 Here are key charts from the analysis:
 
-![Weekly Ride Distribution by User Type](weekly_ride_distribution.png)
+![Proportion of Members vs Casual](member_casual_pie.png)
 
-![Hourly Ride Patterns](hourly_patterns.png)
+![Weekly Ride Distribution by User Type](weekly_ride_distribution.png)
 
 ![Monthly Ride Volume](monthly_volume.png)
 
-![Proportion of Members vs Casual](member_casual_pie.png)
+![Hourly Ride Patterns](hourly_patterns.png)
 
 ![Average Ride Duration](avg_ride_duration.png)
 
