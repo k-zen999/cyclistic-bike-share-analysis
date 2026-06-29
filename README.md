@@ -27,29 +27,26 @@ This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – Ma
 - Created a representative sample of **500,000 records** for efficient analysis.
 - Conducted exploratory data analysis and built visualizations in Tableau.
 
-## Visualizations
-Here are key charts from the analysis:
+## Key Insights with Visualizations
 
-![Proportion of Members vs Casual](visualizations/member_casual_pie.png)
-
-![Weekly Ride Distribution by User Type](visualizations/weekly_ride_distribution.png)
-
-![Monthly Ride Volume](visualizations/monthly_volume.png)
-
-![Hourly Ride Patterns](visualizations/hourly_patterns.png)
-
-![Average Ride Duration](visualizations/avg_ride_duration.png)
-
-![Rideable Type](visualizations/rideable_type.png)
-
-
-## Key Insights
+1) ![Proportion of Members vs Casual](visualizations/member_casual_pie.png)
 - **Member riders dominate usage** (63.38% of total rides) compared to casual riders (36.62%).
-- **Casual riders take significantly longer trips** on average (~23 minutes) than members (~13 minutes), indicating more leisure-oriented usage.
+
+2) ![Weekly Ride Distribution by User Type](visualizations/weekly_ride_distribution.png)
 - **Weekly patterns differ clearly**: Members prefer weekdays (peak Tuesday–Thursday), while casual riders favor weekends (especially Saturday).
-- **Hourly patterns** show member rides concentrated during commuting hours, while casual rides are more evenly distributed.
+
+3) ![Monthly Ride Volume](visualizations/monthly_volume.png)
 - **Strong seasonal trend**: Ride volume peaks in summer months (June–August) and drops in winter.
+  
+4) ![Hourly Ride Patterns](visualizations/hourly_patterns.png)
+- **Hourly patterns** show member rides concentrated during commuting hours, while casual rides are more evenly distributed.
+  
+5) ![Average Ride Duration](visualizations/avg_ride_duration.png)
+- **Casual riders take significantly longer trips** on average (~23 minutes) than members (~13 minutes), indicating more leisure-oriented usage.
+
+6) ![Rideable Type](visualizations/rideable_type.png)
 - **Rideable type preference**: Members heavily prefer electric bikes, while casual riders use both types more evenly.
+
 
 ## Recommendations
 
