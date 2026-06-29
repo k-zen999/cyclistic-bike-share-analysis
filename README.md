@@ -24,7 +24,7 @@ This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – Ma
 - Downloaded and extracted 12 months of raw CSV files.
 - Concatenated all files into a single dataframe.
 - Performed comprehensive data cleaning and preprocessing (handled missing values, removed duplicates, validated ride durations, created calculated fields).
-- Created a representative sample of **500,000 records** for efficient analysis.
+- Created a representative sample of **50,000 records** for efficient analysis.
 - Conducted exploratory data analysis and built visualizations in Tableau.
 
 ## Key Insights with Visualizations
