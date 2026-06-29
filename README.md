@@ -42,6 +42,18 @@ Here are key charts from the analysis:
 
 ![Rideable Type](rideable_type.png)
 
+## Recommendations
+
+To increase annual memberships, Cyclistic should:
+
+1. **Weekend Membership Plan**
+Offer discounted weekend subscription plans targeting casual riders who already use the service heavily on weekends.
+
+2. **Targeted Marketing Campaigns**
+Focus ads near tourist-heavy areas and weekends to convert leisure riders to members.
+
+3. **Commuter Incentives**
+Promote annual membership benefits emphasizing convenience and cost savings for daily commuters.
 
 ## Key Insights
 - **Member riders dominate usage** (63.38% of total rides) compared to casual riders (36.62%).
