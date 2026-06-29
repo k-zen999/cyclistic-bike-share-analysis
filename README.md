@@ -1,6 +1,7 @@
 # Cyclistic Bike-Share Data Analysis
 
 **Google Data Analytics Professional Certificate Capstone Project**
+**Author: Zaina Khanum**
 
 ## Overview
 Data analysis of Cyclistic (Divvy) bike-share trip data to understand how annual members and casual riders use the bikes differently. The goal is to provide actionable insights to help convert casual riders into annual members and increase long-term profitability.
@@ -13,12 +14,9 @@ The objective of this analysis is to identify behavioral differences between cas
 - **Tableau**: Data visualization and dashboard creation
 - **Jupyter Notebook**: Reproducible workflow
 
-## Data
-Due to GitHub file size limits, the sample dataset (50,000 records) is not included in this repository.  
-The cleaned sample data is available upon request.
-
 ## Dataset
-This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – May 2026). The dataset consists of monthly CSV files containing trip-level details such as start/end times, stations, rideable type, and user type (member or casual).
+This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – May 2026). The dataset consists of monthly CSV files containing trip-level details - ride_id, rideable_type, started_at / ended_at, member_casual, start_station / end_station.
+(Due to GitHub file size limits, the sample dataset (50,000 records) is not included in this repository. The cleaned sample data is available upon request.)
 
 ## Project Steps
 - Downloaded and extracted 12 months of raw CSV files.
