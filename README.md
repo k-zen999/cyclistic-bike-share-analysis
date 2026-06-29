@@ -13,6 +13,10 @@ The objective of this analysis is to identify behavioral differences between cas
 - **Tableau**: Data visualization and dashboard creation
 - **Jupyter Notebook**: Reproducible workflow
 
+## Data
+Due to GitHub file size limits, the sample dataset (50,000 records) is not included in this repository.  
+The cleaned sample data is available upon request.
+
 ## Dataset
 This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – May 2026). The dataset consists of monthly CSV files containing trip-level details such as start/end times, stations, rideable type, and user type (member or casual).
 
