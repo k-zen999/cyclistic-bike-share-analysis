@@ -23,14 +23,6 @@ This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – Ma
 - Created a representative sample of **500,000 records** for efficient analysis.
 - Conducted exploratory data analysis and built visualizations in Tableau.
 
-## Key Insights
-- **Member riders dominate usage** (63.38% of total rides) compared to casual riders (36.62%).
-- **Casual riders take significantly longer trips** on average (~23 minutes) than members (~13 minutes), indicating more leisure-oriented usage.
-- **Weekly patterns differ clearly**: Members prefer weekdays (peak Tuesday–Thursday), while casual riders favor weekends (especially Saturday).
-- **Hourly patterns** show member rides concentrated during commuting hours, while casual rides are more evenly distributed.
-- **Strong seasonal trend**: Ride volume peaks in summer months (June–August) and drops in winter.
-- **Rideable type preference**: Members heavily prefer electric bikes, while casual riders use both types more evenly.
-
 ## Visualizations
 Here are key charts from the analysis:
 
@@ -45,4 +37,14 @@ Here are key charts from the analysis:
 ![Average Ride Duration](avg_ride_duration.png)
 
 ![Rideable Type](rideable_type.png)
+
+
+## Key Insights
+- **Member riders dominate usage** (63.38% of total rides) compared to casual riders (36.62%).
+- **Casual riders take significantly longer trips** on average (~23 minutes) than members (~13 minutes), indicating more leisure-oriented usage.
+- **Weekly patterns differ clearly**: Members prefer weekdays (peak Tuesday–Thursday), while casual riders favor weekends (especially Saturday).
+- **Hourly patterns** show member rides concentrated during commuting hours, while casual rides are more evenly distributed.
+- **Strong seasonal trend**: Ride volume peaks in summer months (June–August) and drops in winter.
+- **Rideable type preference**: Members heavily prefer electric bikes, while casual riders use both types more evenly.
+
 ## Repository Structure
