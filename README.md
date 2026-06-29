@@ -1,6 +1,7 @@
 # Cyclistic Bike-Share Data Analysis
 
 **Google Data Analytics Professional Certificate Capstone Project**
+
 **Author: Zaina Khanum**
 
 ## Overview
@@ -16,6 +17,7 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ## Dataset
 This analysis uses 12 months of Cyclistic bike-share trip data (June 2025 – May 2026). The dataset consists of monthly CSV files containing trip-level details - ride_id, rideable_type, started_at / ended_at, member_casual, start_station / end_station.
+
 (Due to GitHub file size limits, the sample dataset (50,000 records) is not included in this repository. The cleaned sample data is available upon request.)
 
 ## Project Steps
